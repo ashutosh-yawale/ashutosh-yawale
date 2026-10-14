@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm Ashutosh Yawale 👋
 
 ### Aspiring Data Analyst \| SQL · Python · Excel · Power BI · Tableau
