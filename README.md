@@ -70,9 +70,6 @@ visualizations.
 -   Used KPI cards, charts, maps, filters, and drill-through pages to
     explore trends.
 
-🔗 [View project
-repository](https://github.com/Soundharya09/Global-Covid-19-Analytics-Dashboard)
-
 ### 3. IoT-Based Smart Cashless Vending Machine
 
 **Tools:** Hardware-software integration · RFID · AES-based encryption
